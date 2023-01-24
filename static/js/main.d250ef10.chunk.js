@@ -1,0 +1,2 @@
+(this["webpackJsonptrivia-project-starter-code"]=this["webpackJsonptrivia-project-starter-code"]||[]).push([[0],{12:function(t,e,r){},13:function(t){t.exports=JSON.parse("{}")},15:function(t,e,r){"use strict";r.r(e);r(1);var c=r(3),s=(r(12),r(13),r(0));var i=function(){return Object(s.jsx)("div",{className:"app",children:Object(s.jsx)("h1",{className:"title",children:"Trivia!"})})};Object(c.createRoot)(document.getElementById("root")).render(Object(s.jsx)(i,{}))}},[[15,1,2]]]);
+//# sourceMappingURL=main.d250ef10.chunk.js.map
